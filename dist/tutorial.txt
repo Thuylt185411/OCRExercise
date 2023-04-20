@@ -1,0 +1,45 @@
+Xin chào! Đây là hướng dẫn sử dụng phần mềm ... của chúng tôi
+
+Phần mềm được viêt bằng ngôn Python3, sử dụng API Google Translate Ajax, ORC,...
+
+--------------------------------------*****---------------------------------------
+
+Mục tiêu của chúng tôi là viết một sản phẩm nhận dạng văn bản thông qua ảnh chụp
+và hỗ trợ người dùng dịch qua các ngôn ngữ mong muốn.
+
+1.
+Hãy bắt đầu với việc tải ảnh lên giao diện, bạn có thể sử dụng nút "Tải" và lựa
+chọn ảnh bạn mong muốn. Bức ảnh sẽ được tải lên bên trái giao diện.
+Ngay phía trên bức ảnh chúng tôi để đường dẫn tới bức ảnh của bạn để bạn kiểm tra.
+Hoặc cách khác bạn có thể mở ảnh trong một cửa sổ mới bằng cách chọn
+"File->Open image in new window" kết quả cũng tương tự.
+Chúng tôi mong bạn sẽ không xóa hay di chuyển bức ảnh trong máy bạn trong lúc thao
+tác!!! ^_^
+
+2.
+Sau khi đã có đường dẫn hiển thị trên giao diện, hãy ấn nút "Xử lý", văn bản được
+phát hiện trong ảnh sẽ hiện trên khung bên trái.
+Lựa chọn ngôn ngữ của văn bản ở Combobox bên trái và ngôn ngữ bạn muốn dịch ra ở
+Combobox bên phải. Cuối cùng là ấn nút dịch, trong khi đó hãy đảm bảo kết nối
+mạng nhé.
+
+3. 
+Nếu bạn muốn lưu văn bản, hãy vào "File" và chọn đoạn văn bản bạn muốn lưu.
+
+4.
+Chúng tôi rất mong chờ nhận được phản hồi từ bạn về sản phẩm hoặc bất cứ lỗi nào
+bạn gặp phải. Hãy liên hệ cho chúng tôi, thông tin chúng tôi để ở
+"Help->Contact to us"
+
+Cảm ơn các bạn đã sử dụng sản phẩm.
+Chúng tôi xin cảm ơn các anh chị, thầy cô đã giúp đỡ và chia sẻ kiến thức giúp chúng
+tôi hoàn thiện sản phẩm.
+Dưới đây là link tham khảo:
+
+
+
+Nhóm làm sản phẩm:
+Trần Long Quang Anh
+Nguyễn Trung Hiếu
+Lê Thu Thủy
+(trường Đại học Bách Khoa Hà Nội - trường số 1 Đại Cồ Việt)
